@@ -2,4 +2,15 @@ Notes on Terminal Commands
 
 ls: lists every file/folder in directory
 
-cd:  
+cd: changes directory
+
+pwd: shows current working directory
+
+cd .. : goes up a directory folder
+
+cd ../../ : goes up two directory folders
+
+cd ~ : goes to root user folder
+
+mkdir <name> : makes a directory (folder) called <name>
+(note: do NOT need angle brackets) 

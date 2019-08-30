@@ -1,1 +1,15 @@
-igithub notes
+github notes:
+
+to clone: git clone <github-repo-url>
+
+to pull (update your repo): git pull
+(note: MUST be in the repo's root folder)
+
+to push to your github:
+
+1. git add <name of file or folder>
+2. git commit -m "note about what you are committing"
+3. git push
+
+ 
+
